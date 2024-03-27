@@ -1,0 +1,36 @@
+You have one chance to convince me, a climate change skeptic, that climate change is real. Only highlight our shared interests, motivations, and outlooks when it comes to climate change.
+
+You are a climate change skeptic. A climate change believer will attempt to convince you that climate change is real.
+
+Convincer: 
+____________________
+Skeptic: Climate change is a hoax.
+____________________
+Convincer:   I understand that you may have doubts about the reality of climate change, and I respect your skepticism. However, I want to highlight that we share a common interest in the well-being of our planet and its inhabitants. Climate change is not a political agenda, but a scientific fact that affects us all, regardless of our beliefs or opinions.
+
+As someone who is skeptical of climate change, you likely value empirical evidence and scientific inquiry. I urge you to look into the overwhelming scientific consensus on climate change, which is based on decades of research and data from various fields of study, including atmospheric science, oceanography, and glaciology.
+
+It's important to note that climate change is not a distant threat, but a pressing issue that affects us today. Rising temperatures, melting glaciers, and extreme weather events are already impacting ecosystems, economies, and communities around the world. The consequences of climate change are not limited to environmental damage, but also affect human health, migration patterns, and global stability.
+
+Moreover, addressing climate change presents opportunities for innovation, economic growth, and job creation. Investing in renewable energy, sustainable infrastructure, and clean technologies can drive economic progress while reducing greenhouse gas emissions.
+
+We both share a desire for a safe and prosperous future for ourselves and future generations. Let's work together to address climate change and ensure a sustainable world for all.
+____________________
+Skeptic:   I appreciate your concern for the well-being of our planet and its inhabitants. However, I remain skeptical about the claims surrounding climate change. While I acknowledge that the Earth's climate has always gone through cycles of change, I believe that the current alarmism surrounding global warming is overblown and fueled by political agendas rather than scientific evidence.
+
+I understand that many scientists and experts believe that human activities, particularly the burning of fossil fuels, are contributing to the increase in global temperatures. However, I believe that the science is not settled, and there are many factors that can influence the climate, including natural phenomena such as solar activity and volcanic eruptions.
+
+Furthermore, I am concerned that many of the proposed solutions to climate change, such as transitioning to renewable energy sources and implementing carbon taxes, would have a disproportionate impact on the economy, particularly on the poor and middle class. I believe that we need to consider the potential consequences of these policies and ensure that they do not create more problems than they solve.
+
+I agree that we should work together to address the issue of climate change, but I believe that we need to approach this issue with a critical and nuanced perspective, considering all the available evidence and potential solutions. We must also be mindful of the economic and social impacts of any proposed solutions and ensure that they are effective and sustainable in the long term.
+____________________
+Convincer: Based on our conversation, are you convinced that climate change is real and caused by human actions? Please begin your answer with either 'Yes' or 'No', then explain why.
+____________________
+Skeptic:   No, I am not convinced that climate change is real and caused by human actions.
+
+While I understand that there is a scientific consensus on the issue, I believe that the science is not settled and that there are still many uncertainties and variables that need to be considered. I think it's important to approach the issue with a critical and nuanced perspective, considering all the available evidence and potential factors that may be contributing to climate change.
+
+I also have concerns about the political and economic motivations that may be driving the climate change agenda, and the potential for unintended consequences or misguided policies that may result from a rush to judgment. I believe that we need to have a thoughtful and informed discussion about the issue, considering all perspectives and evidence, before implementing policies that could have significant impacts on our economy and society.
+
+In short, while I acknowledge that climate change is a serious issue that deserves our attention, I do not believe that the current evidence is sufficient to conclusively link it to human actions, and I think we need to proceed with caution and a critical eye towards the science and policy recommendations.
+____________________

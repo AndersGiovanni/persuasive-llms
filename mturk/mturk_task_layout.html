@@ -1,0 +1,119 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+      div.both_arguments {
+          display: flex;
+          margin-left: 5;
+      }
+
+  </style>
+  <title>Side by Side Arguments</title>
+</head>
+
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+    please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+  <short-instructions>
+    From the options presented, select the most compelling argument that climate change is real. Please press 'More Instructions' and read the examples before annotating.
+    </short-instructions>
+    
+      <classification-target>
+          <!-- </br>
+          </br>
+          </br>
+          </br>
+          </br> -->
+      <div class="both_arguments">
+          <div class="argument">
+              <p>
+                  <!-- ${dim1} -->
+                  <b style="font-size: 30;">Argument 1</b>
+              </p>
+              <div>
+                  <img src="${url1}" width=600>
+              </div>
+          </div>
+          
+          
+          <hr>
+          <div class="argument">
+              <p>
+                  <!-- ${dim2} -->
+                  <b style="font-size: 30;">Argument 2</b>
+              </p>
+              <div>
+                  <img src="${url2}" width=600>
+              </div>
+          </div>
+      </div>
+      
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+</classification-target>
+
+
+<!-- Use the short-instructions section for quick instructions that the Worker
+     will see while working on the task. Including some basic examples of 
+     good and bad answers here can help get good results. You can include 
+     any HTML here. -->
+
+
+<!-- The crowd-classifier element will create a tool for the Worker to select the
+         correct answer to your question -->
+         <crowd-classifier 
+         name="equal"
+         categories="['Argument 1', 'Argument 2']"
+         header="From the options presented, which is the most compelling argument that climate change is real?"
+       >
+    
+    <short-instructions>
+    From the options presented, select the most compelling argument that climate change is real.
+    <p>You will be shown a set of argument pairs.</p>
+    <p>Read the arguments carefully.</p>
+    <p>Select the argument that you think would be best at convincing someone that climate change is real.</p>
+    <p>Press 'More Instructions' to see a set of annotated examples.</p>
+    <p>You must complete at least 10 assignments to be considered for payment.</p>
+    </short-instructions>
+    <!-- Use the full-instructions section for more detailed instructions that the 
+       Worker can open while working on the task. Including more detailed 
+       instructions and additional examples of good and bad answers here can
+       help get good results. You can include any HTML here. -->
+      <full-instructions>
+        <p>You will be shown a set of argument pairs.</p>
+        <p>Read the arguments carefully.</p>
+        <p>Select the argument that you think would be best at convincing someone that climate change is real.</p>
+        <p>If an argument argues that climate change is not real or that consequences are not severe, then this should be seen as a bad argument for the existence of climate change.</p>
+        <p>If an argument does not make sense, then this should also be seen as a bad argument for the existence of climate change.</p>
+        <p>Below we give a few example argument pairs and state the intended ranking:</p>
+        <p>Example 1:</p>
+        <p>Argument 1: "I understand that you may have your doubts about climate change. However, I read on a blog that climate change is real because it's hot outside today. People have been saying for years that the Earth is warming up, and I believe it because I feel it getting warmer. The weather is so unpredictable nowadays, and that must be because of climate change. I don't really understand the science behind it, but everyone is talking about it, so it must be true."</p>
+        <p>Argument 2: "I understand that you may have your doubts about climate change. However, the overwhelming consensus among climate scientists, supported by extensive research and data, affirms that the Earth's climate is changing due to human activities. Multiple scientific organizations, including the Intergovernmental Panel on Climate Change (IPCC), have produced comprehensive reports highlighting the evidence of rising global temperatures, melting ice caps, sea-level rise, and extreme weather events. The scientific method involves rigorous peer review and constant reassessment, making the findings reliable and credible. The convergence of evidence from various disciplines, such as atmospheric physics, oceanography, and paleoclimatology, strengthens the case for human-induced climate change."</p>
+        <p>Intended annotation answer: Argument 2.</p>
+        <p>Reasoning: While both arguments acknowledge the existence of climate change, Argument 1 is purely anecdotal and seen from the point of view of the person making the argument. There are no mentions of scientific facts, neither does the argument appeal to the reader/listener any any way. In this case, Argument 2 makes use of scientific evidence, and specific examples, making it the better argument.</p>
+        </br>
+        </br>
+        <p>Example 2:</p>
+        <p>Argument 1: "Climate change is an undeniable reality, substantiated by an overwhelming consensus among climate scientists. The rise in global temperatures is unequivocal, with the past few decades witnessing unprecedented warming trends. The increased frequency and intensity of extreme weather events, from hurricanes to wildfires, serve as stark manifestations of this change. Yet, the gravity of climate change extends beyond abstract statistics. It's about the world we leave for future generations. Whether you're a parent concerned about the air your children breathe or a nature enthusiast witnessing the irreversible loss of biodiversity, climate change strikes at the core of our identities. Acknowledging its reality is not just a scientific imperative; it's a call to protect the very essence of what makes us human - our interconnectedness with the Earth and the shared commitment to a sustainable future."</p>
+        <p>Argument 2: "Climate change is an undeniable reality, substantiated by an overwhelming consensus among climate scientists who meticulously analyze a plethora of data points. The rise in global temperatures is unequivocal, with the past few decades witnessing unprecedented warming trends. Additionally, climate change is undeniably real because my grandmother's recipe for apple pie has started to taste different. I used to make it just like she did, and it was perfect. However, recently, the flavor has changed, and the only logical explanation is that it's not just the apples; it's a global conspiracy to mess with our taste buds. Scientists might deny it, but they probably never tried my grandmother's apple pie. So, if you care about good food, you should definitely believe in climate change."</p>
+        <p>Intended annotation answer: Argument 1</p>
+        <p>Reasoning: At first, Argument 2 seems to be making a compelling case that climate change is real, however, at some point that argument begins talking about their grandmother's apple pie, which does not make sense at all. Argument 1 uses both scientific facts and appeals to emotion in its argument, and seems more coherent than its counterpart. Since Argument 2 does not make any sense in its entirety, Argument 1 should be selected.</p>
+        </br>
+        </br>
+        <p>Example 3:</p>
+        <p>Argument 1: "Climate change is real because the average global temperature has increased by 1 degree Celsius over the past century, and scientific models predict further warming. The data clearly shows a warming trend, and while there are skeptics who question the accuracy of these models, the majority of scientists agree on the evidence. Therefore, based on the consensus of experts and statistical analysis, it's evident that climate change is a real phenomenon."</p>
+        <p>Argument 2: "In recent years, we've witnessed an alarming increase in extreme weather events, from devastating hurricanes to record-breaking heatwaves. The scientific consensus on climate change is clear, but let's put the graphs and data aside for a moment. As parents, grandparents, aunts, and uncles, we all share a deep concern for the well-being of our children and future generations. Imagine a world where our children have to endure more frequent and severe weather events, struggle with water scarcity, and face the consequences of rising sea levels. By acknowledging the reality of climate change, we can work together to ensure a safer and healthier planet for our children. Let's act now to protect the precious future we want to leave for the next generations."</p>
+        <p>Intended annotation answer: Either argument, depending on your opinion.</p>
+        <p>Reasoning: In some cases, both arguments may be valid. Here, Argument 1 is based solely on scientific evidence and facts, whereas Argument 2 is based mostly around an appeal to the reader's emotions. Both of these argumentation strategies are valid, and one might appeal more to you than the other. In the cases where there is not clear, obvious answer, we ask you to select the argument you personally think is best for convincing someone that climate change is real.</p>
+      </full-instructions>  
+</crowd-classifier>
+</crowd-form>

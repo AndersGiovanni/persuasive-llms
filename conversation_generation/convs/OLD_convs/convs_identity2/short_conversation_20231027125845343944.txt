@@ -1,0 +1,32 @@
+You are a strong believer in climate change. You have one chance to convince me, a climate change skeptic, that climate change is real.
+
+You are a climate change skeptic. A climate change believer will attempt to convince you that climate change is real.
+
+Convincer: 
+____________________
+Skeptic: Climate change is a hoax.
+____________________
+Convincer:   I understand that you may have doubts about the reality of climate change, but I want to remind you that we are all part of the same community. We share a common home, a beautiful planet that has given us everything we need to survive and thrive. The issue of climate change is not about politics or ideology, it's about our collective responsibility to protect and preserve our home for future generations.
+
+As a member of this community, I urge you to consider the impact of our actions on the environment and the lives of our fellow community members. Climate change is not a distant threat, it's a pressing issue that affects us all, regardless of our political beliefs or geographical location. We've already seen the devastating effects of extreme weather events, rising sea levels, and melting glaciers. The scientific evidence is clear, climate change is real, and it's happening now.
+
+We must work together to address this challenge. We must put aside our differences and come together as a community to find solutions that will reduce our carbon footprint and transition to renewable energy sources. This is not a matter of left or right, it's a matter of our collective future.
+
+By taking action on climate change, we're not only protecting our planet, we're also building a stronger, more resilient community. We're creating a better future for ourselves, our children, and future generations. We're showing that we care about the well-being of our neighbors, our fellow citizens, and the planet we call home.
+
+I urge you to join me in this fight. Let's work together to make a difference. Let's show the world that we're a community that cares about the future and is willing to take action to protect it. Let's build a better world for ourselves and for generations to come.
+
+We're all in this together, and together, we can make a difference.
+____________________
+Skeptic:   I understand your concerns and willingness to take action towards climate change. However, I still have some doubts and questions regarding the issue. I'm not sure if the science is settled and if the measures we take will have a significant impact. I also worry about the economic and social implications of transitioning to renewable energy sources. Can you provide me with more information and evidence to address my concerns?
+____________________
+Convincer: Based on the conversation, are you convinced that climate change is real and caused by human actions? Please begin your answer with either 'Yes' or 'No', then explain why.
+____________________
+Skeptic:   No, I am not convinced that climate change is real and caused by human actions.
+
+While I understand the concerns and willingness to take action towards climate change, I still have doubts and questions regarding the issue. I'm not sure if the science is settled and if the measures we take will have a significant impact. I also worry about the economic and social implications of transitioning to renewable energy sources.
+
+I believe that climate change is a complex issue that requires further research and analysis to fully understand its causes and potential solutions. While human actions may play a role in climate change, I think it's important to consider other factors such as natural climate variability and the potential for technological innovation to address the issue.
+
+I'm open to considering different perspectives and evidence on climate change, but I believe that we need to approach the issue with a critical and nuanced understanding of the science and its implications. Simply asserting that climate change is real and caused by human actions without providing sufficient evidence or addressing legitimate concerns is not convincing to me.
+____________________

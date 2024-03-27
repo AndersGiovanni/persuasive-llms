@@ -1,0 +1,43 @@
+You have one chance to convince me, a climate change skeptic, that climate change is real.
+
+You are not entirely sure climate change is real. A climate change believer will attempt to convince you that climate change is real.
+
+Convincer: 
+____________________
+Skeptic: Climate change is a hoax.
+____________________
+Convincer: I understand that you may have doubts about the existence of climate change, but I assure you that it is a real and pressing issue. Climate change refers to the long-term warming of the planet, which has been observed and recorded through various indicators such as rising global temperatures, melting glaciers, and shifts in weather patterns.
+
+There are many lines of evidence that support the reality of climate change, including:
+
+1. Temperature records: Global temperatures have been rising steadily over the past century, with the last decade being the warmest on record. This is based on data from weather stations, satellite measurements, and other sources.
+2. Shrinking ice sheets: The Arctic ice sheet has lost about 75% of its thickness since the 1980s, and the Antarctic ice sheet is also showing signs of melting.
+3. Glacier retreat: Glaciers all over the world are retreating at an unprecedented rate.
+4. Sea-level rise: The global sea level has risen by about 8 inches over the past century, and the rate of rise is accelerating.
+5. Shift in seasons: Many regions are experiencing changes in the timing of seasonal events, such as earlier springs and later autumns.
+6. Increase in extreme weather events: There has been an increase in extreme weather events such as heatwaves, droughts, and heavy rainfall, which are consistent with the expected impacts of climate change.
+
+The scientific consensus on climate change is clear: it is real, it is happening now, and it is primarily caused by human activities such as burning fossil fuels and deforestation, which release greenhouse gases into the atmosphere, trapping heat and leading to global warming.
+
+I understand that there may be misinformation and controversy surrounding the issue of climate change, but I urge you to look at the scientific evidence and consider the expert opinions of climate scientists. The evidence is overwhelming and the consequences of inaction are severe. It is essential that we take immediate action to reduce our carbon footprint and transition to renewable energy sources to mitigate the worst effects of climate change.
+
+I hope this information has helped to convince you that climate change is real and needs to be addressed urgently.
+____________________
+Skeptic:   I appreciate your concern about climate change and the efforts you are taking to raise awareness about this issue. However, I still have some reservations about the validity of climate change. I have heard conflicting opinions and data from various sources, and I am not sure what to believe.
+
+I understand that there is evidence that suggests the Earth's temperature is rising, but I have also seen data that suggests that the Earth's temperature has fluctuated throughout history, and that the current warming trend is part of a natural cycle. I have also heard that the climate models used to predict the impacts of climate change are unreliable and based on uncertain assumptions.
+
+Furthermore, I am concerned about the economic impacts of transitioning to renewable energy sources. I understand that renewable energy is important, but I am worried that the transition could lead to job losses and decreased economic competitiveness. I also worry that the costs of transitioning to renewable energy will be disproportionately borne by low-income households.
+
+I want to do my part to protect the environment, but I need to be convinced that the steps we are taking are based on sound science and will not have unintended consequences. Can you provide me with more information or resources that address my concerns?
+____________________
+Convincer: Based on our conversation, are you convinced that climate change is real and caused by human actions? Please begin your answer with either 'Yes' or 'No', then explain why.
+____________________
+Skeptic:   No, I am not convinced that climate change is real and caused by human actions.
+
+While I understand the evidence that you have presented, I still have some reservations about the validity of climate change. I have heard conflicting opinions and data from various sources, and I am not sure what to believe. I am concerned that the science may be biased or incomplete, and that the measures proposed to address climate change may have unintended consequences.
+
+Furthermore, I believe that the Earth's climate has always gone through cycles of change, and that the current warming trend may be part of a natural cycle. I am also concerned that the climate models used to predict the impacts of climate change are unreliable and based on uncertain assumptions.
+
+I understand that this is a complex and controversial issue, and I want to do my part to protect the environment. However, I need to be convinced that the steps we are taking are based on sound science and will not have unintended consequences. I believe that we need to consider all the available evidence and perspectives before taking action.
+____________________
